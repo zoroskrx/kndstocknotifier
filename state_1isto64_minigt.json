@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-08-15T11:51:24+00:00",
+  "last_checked_utc": "2026-08-15T13:45:13+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Aston Martin AMR24 #14 Fernando Alonso",
@@ -298,7 +298,7 @@
     },
     "mercedes-benz-190-e-2-3-16-11-ayrton-senna-1984-nurburgring-race-of-champions-w-figure": {
       "name": "Mercedes-Benz 190 E 2.3-16 #11 Ayrton Senna 1984 Nürburgring Race of Champions w/ Figure",
-      "sold_out": false,
+      "sold_out": true,
       "url": "https://1isto64.com/products/mercedes-benz-190-e-2-3-16-11-ayrton-senna-1984-nurburgring-race-of-champions-w-figure"
     },
     "mercedes-benz-190e-2-5-16-evolution-ii-astral-silver": {
@@ -380,11 +380,6 @@
       "name": "Nissan Skyline GT-R Dark Metal Gray (NISMO BNR34 CRS Version)",
       "sold_out": false,
       "url": "https://1isto64.com/products/nissan-skyline-gt-r-dark-metal-gray-nismo-bnr34-crs-version"
-    },
-    "nissan-skyline-gt-r-nismo-bnr32-crs-version-dark-metal-gray": {
-      "name": "Nissan Skyline GT-R (NISMO BNR32 CRS Version) Dark Metal Gray",
-      "sold_out": false,
-      "url": "https://1isto64.com/products/nissan-skyline-gt-r-nismo-bnr32-crs-version-dark-metal-gray"
     },
     "nissan-skyline-gt-r-r32-veilside-combat-c-i-gem-red": {
       "name": "Nissan Skyline GT-R (R32) VeilSide Combat C-I Gem Red",
