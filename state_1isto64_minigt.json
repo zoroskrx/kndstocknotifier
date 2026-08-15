@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-08-15T04:52:10+00:00",
+  "last_checked_utc": "2026-08-15T06:00:04+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Aston Martin AMR24 #14 Fernando Alonso",
@@ -60,11 +60,6 @@
       "name": "BMW M5 Alpine White",
       "sold_out": false,
       "url": "https://1isto64.com/products/bmw-m5-alpine-white"
-    },
-    "bmw-m5-isle-of-man-green-metallic": {
-      "name": "BMW M5 Isle of Man Green Metallic",
-      "sold_out": false,
-      "url": "https://1isto64.com/products/bmw-m5-isle-of-man-green-metallic"
     },
     "bmw-m5-touring-brooklyn-grey-metallic": {
       "name": "BMW M5 Touring Brooklyn Grey Metallic",
@@ -346,11 +341,6 @@
       "sold_out": false,
       "url": "https://1isto64.com/products/nissan-gt-r-2013-dark-metal-gray-nismo-r35-crs-version"
     },
-    "nissan-lb-er34-super-silhouette-athlete-collet": {
-      "name": "Nissan LB-ER34 Super Silhouette ATHLETE/COLLET",
-      "sold_out": false,
-      "url": "https://1isto64.com/products/nissan-lb-er34-super-silhouette-athlete-collet"
-    },
     "nissan-lb-super-silhouette-s15-silvia-555-v2-2024-formula-drift-japan": {
       "name": "Nissan LB-Super Silhouette S15 SILVIA #555 V2 2024 Formula Drift Japan",
       "sold_out": false,
@@ -413,7 +403,7 @@
     },
     "nissan-skyline-gt-r-r33-kaido-works-advan": {
       "name": "Nissan Skyline GT-R (R33) Kaido Works ADVAN",
-      "sold_out": false,
+      "sold_out": true,
       "url": "https://1isto64.com/products/nissan-skyline-gt-r-r33-kaido-works-advan"
     },
     "nissan-skyline-gt-r-r34-tommykaira-r-z-millenium-jade": {
