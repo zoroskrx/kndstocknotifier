@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-08-15T17:53:48+00:00",
+  "last_checked_utc": "2026-08-15T20:56:37+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Aston Martin AMR24 #14 Fernando Alonso",
@@ -53,7 +53,7 @@
     },
     "bmw-m3-kaido-touring-champ-v1": {
       "name": "BMW M3 Kaido Touring Champ V1",
-      "sold_out": false,
+      "sold_out": true,
       "url": "https://1isto64.com/products/bmw-m3-kaido-touring-champ-v1"
     },
     "bmw-m5-alpine-white": {
