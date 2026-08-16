@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-08-16T05:04:25+00:00",
+  "last_checked_utc": "2026-08-16T07:48:44+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Aston Martin AMR24 #14 Fernando Alonso",
@@ -428,7 +428,7 @@
     },
     "porsche-911-dakar-uncle-rally": {
       "name": "Porsche 911 Dakar \"Uncle Rally\"",
-      "sold_out": false,
+      "sold_out": true,
       "url": "https://1isto64.com/products/porsche-911-dakar-uncle-rally"
     },
     "range-rover-1981-camel-trophy-sumatra-c-swoboda-k-mentel-winner": {
