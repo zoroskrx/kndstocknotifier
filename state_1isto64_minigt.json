@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-08-17T05:23:22+00:00",
+  "last_checked_utc": "2026-08-17T11:03:59+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Aston Martin AMR24 #14 Fernando Alonso",
@@ -128,7 +128,7 @@
     },
     "ford-mustang-dark-horse-2024-carbonized-gray": {
       "name": "Ford Mustang Dark Horse 2024 Carbonized Gray",
-      "sold_out": false,
+      "sold_out": true,
       "url": "https://1isto64.com/products/ford-mustang-dark-horse-2024-carbonized-gray"
     },
     "ford-mustang-gt3-65-ford-multimatic-motorsports-2024-imsa-daytona-24-hrs": {
