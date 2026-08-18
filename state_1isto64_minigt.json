@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-08-18T12:00:32+00:00",
+  "last_checked_utc": "2026-08-18T14:08:53+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Aston Martin AMR24 #14 Fernando Alonso",
@@ -128,7 +128,7 @@
     },
     "ford-mustang-dark-horse-2024-carbonized-gray": {
       "name": "Ford Mustang Dark Horse 2024 Carbonized Gray",
-      "sold_out": true,
+      "sold_out": false,
       "url": "https://1isto64.com/products/ford-mustang-dark-horse-2024-carbonized-gray"
     },
     "ford-mustang-gt3-65-ford-multimatic-motorsports-2024-imsa-daytona-24-hrs": {
@@ -428,7 +428,7 @@
     },
     "porsche-911-dakar-uncle-rally": {
       "name": "Porsche 911 Dakar \"Uncle Rally\"",
-      "sold_out": true,
+      "sold_out": false,
       "url": "https://1isto64.com/products/porsche-911-dakar-uncle-rally"
     },
     "range-rover-1981-camel-trophy-sumatra-c-swoboda-k-mentel-winner": {
