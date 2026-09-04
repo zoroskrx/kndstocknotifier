@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-09-03T18:52:03+00:00",
+  "last_checked_utc": "2026-09-04T06:53:05+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Aston Martin AMR24 #14 Fernando Alonso",
@@ -60,11 +60,6 @@
       "name": "BMW i7 xDrive60 Tanzanite Blue Metallic",
       "sold_out": false,
       "url": "https://1isto64.com/products/bmw-i7-xdrive60-tanzanite-blue-metallic"
-    },
-    "bmw-m3-kaido-touring-champ-v1": {
-      "name": "BMW M3 Kaido Touring Champ V1",
-      "sold_out": true,
-      "url": "https://1isto64.com/products/bmw-m3-kaido-touring-champ-v1"
     },
     "bmw-m5-alpine-white": {
       "name": "BMW M5 Alpine White",
@@ -210,6 +205,11 @@
       "name": "Jaguar XKR \"Die Another Day\"",
       "sold_out": false,
       "url": "https://1isto64.com/products/jaguar-xkr-die-another-day"
+    },
+    "lamborghini-countach-25th-anniversary-white": {
+      "name": "Lamborghini Countach 25th Anniversary White",
+      "sold_out": false,
+      "url": "https://1isto64.com/products/lamborghini-countach-25th-anniversary-white"
     },
     "lamborghini-countach-lb-works-black": {
       "name": "Lamborghini Countach LB-WORKS Black",
