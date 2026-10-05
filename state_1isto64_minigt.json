@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-04T20:25:17+00:00",
+  "last_checked_utc": "2026-10-05T09:35:51+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Shop",
@@ -50,6 +50,11 @@
       "name": "Shop",
       "sold_out": false,
       "url": "https://1isto64.com/products/bmw-750il-aspen-silver-metallic"
+    },
+    "bmw-750il-sorrento-blue-metallic": {
+      "name": "Shop",
+      "sold_out": false,
+      "url": "https://1isto64.com/products/bmw-750il-sorrento-blue-metallic"
     },
     "bmw-i7-xdrive60-mineral-white": {
       "name": "Shop",
@@ -367,7 +372,7 @@
       "url": "https://1isto64.com/products/nissan-lb-super-silhouette-s15-silvia-lbwk-2024-fausto-racing"
     },
     "nissan-silvia-s15-d-max-racing-46-2023-d1-grand-prix": {
-      "name": "F1",
+      "name": "Shop",
       "sold_out": false,
       "url": "https://1isto64.com/products/nissan-silvia-s15-d-max-racing-46-2023-d1-grand-prix"
     },
@@ -417,8 +422,8 @@
       "url": "https://1isto64.com/products/nissan-z-veilside-ffz400-orange"
     },
     "porsche-911-dakar-uncle-rally": {
-      "name": "Shop",
-      "sold_out": false,
+      "name": "View",
+      "sold_out": true,
       "url": "https://1isto64.com/products/porsche-911-dakar-uncle-rally"
     },
     "range-rover-1981-camel-trophy-sumatra-c-swoboda-k-mentel-winner": {
@@ -455,11 +460,6 @@
       "name": "Shop",
       "sold_out": false,
       "url": "https://1isto64.com/products/subaru-impreza-wrc99-23-2000-acropolis-rally"
-    },
-    "test": {
-      "name": "Shop",
-      "sold_out": false,
-      "url": "https://1isto64.com/products/test"
     },
     "toleman-tg184-19-ayrton-senna-1984-monaco-grand-prix-2nd-place": {
       "name": "F1",
