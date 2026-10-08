@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T13:21:50+00:00",
+  "last_checked_utc": "2026-10-08T19:25:30+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Shop",
@@ -477,8 +477,8 @@
       "url": "https://1isto64.com/products/toyota-gr86-lb-nation-black-gold"
     },
     "toyota-gr86-lb-nation-red": {
-      "name": "Shop",
-      "sold_out": false,
+      "name": "View",
+      "sold_out": true,
       "url": "https://1isto64.com/products/toyota-gr86-lb-nation-red"
     },
     "toyota-supra-a80-top-secret-gt-300-top-secret-purple": {
