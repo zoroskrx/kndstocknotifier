@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T02:54:14+00:00",
+  "last_checked_utc": "2026-11-17T11:44:15+00:00",
   "products": {
     "aston-martin-amr24-14-fernando-alonso": {
       "name": "Shop",
@@ -22,8 +22,8 @@
       "url": "https://1isto64.com/products/aston-martin-db10-spectre"
     },
     "aston-martin-dbs-007-edition": {
-      "name": "Shop",
-      "sold_out": false,
+      "name": "View",
+      "sold_out": true,
       "url": "https://1isto64.com/products/aston-martin-dbs-007-edition"
     },
     "aston-martin-dbs-james-bond-007-no-time-to-die": {
